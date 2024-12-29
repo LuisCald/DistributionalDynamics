@@ -7,9 +7,5 @@ Modern macroeconomic theories emphasize the critical role of distributional dyna
 
 This repository provides:
 - High-frequency synthetic data derived from our model. We provide the model-implied PSID estimates.
+- The synthetic data comes in two forms: with and without trend, where without trend means the non-linear trend was not added back to the estimates.
 
-## **Applications**
-This repository supports research in:
-- Macroeconomic modeling with heterogeneous agents.
-- Distributional effects of economic policies.
-- Business cycle analysis and inequality studies.
